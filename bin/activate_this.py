@@ -119,7 +119,7 @@ if __name__ == "__main__":
         #         print(line)
         #         time.sleep(0.1)
         #
-        # if "I am Bhawana" in query:
+        # if "I am " in query:
         #     # emoji_rain()
         #     say("Oh! How are You?")
 
