@@ -121,7 +121,7 @@ if __name__ == "__main__":
         #
         # if "I am Bhawana" in query:
         #     # emoji_rain()
-        #     say("Oh! How are You Bhawana?")
+        #     say("Oh! How are You?")
 
 
     #todo:making of ai interactive and do some works own it own through tokens....
